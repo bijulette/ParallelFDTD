@@ -45,7 +45,7 @@ public:
   :
     update_type_(SRL_FORWARD),
     voxelization_type_(SOLID),
-    c_(344.f),
+    c_(343.21f),
     lambda_(((double)1/sqrt((double)3))),
     octave_(0),
     num_steps_(1),
